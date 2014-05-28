@@ -20,8 +20,10 @@ Topics of interest include, but are not limited to:
 
 Please see [the SC14 home page](http://sc14.supercomputing.org/) for registration deadlines and other information associated with the parent event.
 
-## Proceedings 
+## Submissions
+We are using [EasyChair](https://www.easychair.org) to manage submissions.  The link to submit papers will be added to this paper in the near future.
 
+## Proceedings 
 The proceedings will then be archived in both the ACM Digital Library and IEEE Xplore, by virtue of [SIGHPC](http://www.sighpc.org/events/collaboration/scworkshops).
 
 ![SIGHPC Logo](https://raw.githubusercontent.com/LLVM-HPC-Workshop/LLVM-HPC-Workshop.github.io/master/images/sighpc_logo_72dpi.jpg)
