@@ -16,13 +16,12 @@ Topics of interest include, but are not limited to:
 * Paper submissions due: September 1, 2014 
 * Notification to authors of acceptance: October 1, 2014 
 * Camera-ready papers due: November 1, 2014 
-* Workshop takes place: November 7, 2014
+* Workshop takes place: November 17, 2014
 
 Please see [the SC14 home page](http://sc14.supercomputing.org/) for registration deadlines and other information associated with the parent event.
 
 ## Submissions
-We are using [EasyChair](https://www.easychair.org) to manage submissions.  The link to submit papers will be added to this paper in the near future.
-
+We are using [EasyChair](https://www.easychair.org) to manage submissions.  Please submit papers to [llvmhpcsc14](https://www.easychair.org/conferences/?conf=llvmhpcsc14).
 ## Proceedings 
 The proceedings will then be archived in both the ACM Digital Library and IEEE Xplore, by virtue of [SIGHPC](http://www.sighpc.org/events/collaboration/scworkshops).
 
