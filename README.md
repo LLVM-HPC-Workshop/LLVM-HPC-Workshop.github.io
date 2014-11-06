@@ -16,7 +16,7 @@
 |4:00|TBD|TBD|
 |4:30|TBD|TBD|
 |5:00|TBD|TBD|
-|5:30||The End|
+|5:30|The|End|
 
 ## Abstract
 [LLVM](http://llvm.org/), winner of the [2012 ACM Software System Award](http://awards.acm.org/software_system/), has become an integral part of the software-development ecosystem for optimizing compilers, dynamic-language execution engines, source-code analysis and transformation tools, debuggers and linkers, and a whole host of programming-language and toolchain-related components. Now heavily used in both academia and industry, where it allows for rapid development of production-quality tools, LLVM is increasingly used in work targeted at high-performance computing. Research in and implementation of programming-language analysis, compilation, execution and profiling has clearly benefited from the availability of a high-quality, freely-available infrastructure on which to build. This workshop will focus on recent developments, from both academia and industry, that build on LLVM to advance the state of the art in high-performance computing.
