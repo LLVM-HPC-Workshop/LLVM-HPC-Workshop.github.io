@@ -1,3 +1,23 @@
+## Agenda
+|Time|Speaker|Title|
+|----|-----------|-----------|
+|9:00-9:30|TBD|TBD|
+|9:30-10:00|TBD|TBD|
+|10:00|Coffee|Break|
+|10:30|TBD|TBD|
+|11:30|TBD|TBD|
+|11:30|TBD|TBD|
+|12:00|N/A|Lunch|
+|1:30|TBD|TBD|
+|2:00|TBD|TBD|
+|2:30|TBD|TBD|
+|3:00|Coffee|Break|
+|3:30|TBD|TBD|
+|4:00|TBD|TBD|
+|4:30|TBD|TBD|
+|5:00|TBD|TBD|
+|5:30||The End|
+
 ## Abstract
 [LLVM](http://llvm.org/), winner of the [2012 ACM Software System Award](http://awards.acm.org/software_system/), has become an integral part of the software-development ecosystem for optimizing compilers, dynamic-language execution engines, source-code analysis and transformation tools, debuggers and linkers, and a whole host of programming-language and toolchain-related components. Now heavily used in both academia and industry, where it allows for rapid development of production-quality tools, LLVM is increasingly used in work targeted at high-performance computing. Research in and implementation of programming-language analysis, compilation, execution and profiling has clearly benefited from the availability of a high-quality, freely-available infrastructure on which to build. This workshop will focus on recent developments, from both academia and industry, that build on LLVM to advance the state of the art in high-performance computing.
 
@@ -13,17 +33,18 @@ Topics of interest include, but are not limited to:
 * Source code transformation and analysis
 
 ## Deadlines
-* Paper submissions due: September 1, 2014 
-* Notification to authors of acceptance: October 1, 2014 
+* ~~Paper submissions due: September 1, 2014~~
+* ~~Notification to authors of acceptance: October 1, 2014~~
 * Camera-ready papers due: November 1, 2014 
 * Workshop takes place: November 17, 2014
 
 Please see [the SC14 home page](http://sc14.supercomputing.org/) for registration deadlines and other information associated with the parent event.
 
 ## Submissions
-We are using [EasyChair](https://www.easychair.org) to manage submissions.  Please submit papers to [llvmhpcsc14](https://www.easychair.org/conferences/?conf=llvmhpcsc14).
+We are using [EasyChair](https://www.easychair.org) to manage submissions. Please submit papers to [llvmhpcsc14](https://www.easychair.org/conferences/?conf=llvmhpcsc14).  The [ACM SIG Proceedings Templates](http://www.acm.org/sigs/publications/proceedings-templates) should be used.
+
 ## Proceedings 
-The proceedings will then be archived in both the ACM Digital Library and IEEE Xplore, by virtue of [SIGHPC](http://www.sighpc.org/events/collaboration/scworkshops).
+The proceedings will be archived in both the ACM Digital Library and IEEE Xplore, by virtue of [SIGHPC](http://www.sighpc.org/events/collaboration/scworkshops).
 
 ![SIGHPC Logo](https://raw.githubusercontent.com/LLVM-HPC-Workshop/LLVM-HPC-Workshop.github.io/master/images/sighpc_logo_72dpi.jpg)
 
